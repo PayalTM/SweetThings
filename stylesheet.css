@@ -8,13 +8,20 @@ body {
 img:hover {
 	opacity: 0.6;
 }
+<br>
 
-h1, h2 {
-	color: black;
+h1{
+	color: black; font-family: helvetica; font-style: sans-serif; font-size: 32px; text-align: center; text-decoration:none;
 }
 
-h3 {
-	color: mediumpurple;
-	background: grey;
-	padding: 10px;
+<br>
+
+p1{
+	color: black; font-family: helvetica; font-style: sans-serif; font-size: 16px; text-align: center; text-decoration:none;
+}
+
+<br>
+
+h1, p1 {
+	border: 5px solid white; 
 }
