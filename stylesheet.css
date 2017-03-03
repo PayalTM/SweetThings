@@ -1,15 +1,42 @@
 body {
-	background-image: url("http://2.bp.blogspot.com/-6bhXKqeFdqU/VElTJGUVYbI/AAAAAAAADW4/TzKeD2ajVBU/s1600/Big-Cakes.jpg");
+	background-image: url("https://images.freecreatives.com/wp-content/uploads/2015/05/24.jpg");
 	background-repeat: repeat;
 	background-size: contain;
 	font-family: sans-serif;
 	color: black;
+	text-align: center;
+}
+strong {
+	color: purple;
 }
 
 img {
 	width: 50%;
+	margin: auto;
+	outline-style: dotted;
+	outline-color: lightslategrey;
+	outline-width: 2px;
 }
 
 h1 {
-	color: mediumpurple;
+	color: steelblue;
+	font-variant: small-caps;
+	background-color: aliceblue;
+}
+
+h2 {
+	color: purple;
+	background-color: thistle;
+}
+
+a {
+	color: mediumvioletred;
+	text-decoration: none;
+	background-color: mistyrose;
+	padding: 5px;
+}
+
+table {
+	color: none;
+	outline-style: none;
 }
