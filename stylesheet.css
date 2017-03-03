@@ -1,0 +1,20 @@
+body {
+	background-image: url("http://2.bp.blogspot.com/-6bhXKqeFdqU/VElTJGUVYbI/AAAAAAAADW4/TzKeD2ajVBU/s1600/Big-Cakes.jpg");
+	background-repeat: repeat;
+	font-family: sans-serif;
+	color: black;
+}
+
+img:hover {
+	opacity: 0.6;
+}
+
+h1, h2 {
+	color: black;
+}
+
+h3 {
+	color: mediumpurple;
+	background: grey;
+	padding: 10px;
+}
